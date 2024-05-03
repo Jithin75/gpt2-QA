@@ -23,8 +23,8 @@ To use the Augmented GPT-2 Language Model for your QA tasks, follow these steps:
 
 ## Caveats and Future Improvements
 
-- **Limited Training**: Please note that the provided notebook was trained for only 30 minutes due to space and time constraints. However, even with limited training, the accuracy achieved is promising.
-- **Continual Improvement**: I am actively working on designing fine-tuning strategies to further improve the model's performance. These enhancements will be pushed to the repository in future updates.
+- **Limited Training**: Please note that the provided notebook was trained for only 30 minutes due to space and time constraints. However, even with limited training, the accuracy achieved is promising but still not satisfactory.
+- **Continual Improvement**: I am actively working on designing fine-tuning strategies to further improve the model's performance, so please keep in mind that this project is still a work in progress. These enhancements will be pushed to the repository in future updates.
 
 ## References
 
